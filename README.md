@@ -26,8 +26,8 @@ Motion Art for Elementor is a React-based application that seamlessly integrates
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `https://github.com/VaibhavRajput884/Motion-Art-Effect-`
-2. Navigate to the project directory: `cd Heliverse`
+1. Clone the repository: `https://github.com/sachindolase/Motion-Art-Effect`
+2. Navigate to the project directory: `cd Motion-Art-Effect`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open your browser and visit `http://localhost:5173` to view the application.
